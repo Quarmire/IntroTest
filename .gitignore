@@ -1,0 +1,6 @@
+# Excluding password.txt
+
+*.txt
+!apples.txt
+
+# This is a comment
